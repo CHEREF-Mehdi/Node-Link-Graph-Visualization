@@ -9,7 +9,7 @@ If the distance between two connected nodes increases, the arcs will be away fro
 
 To do this, it will be necessary to bring each node closer to its neighbors to minimiz the distance of each node of the centroid of its neighbors. A measure d is associated to each node indicating its distance to the centroid of its neighbors. Assuming that the nodes are arranged in an array Ti, d(Vk) is calculated as follows :
 
-![alt text]()
+![alt text](https://github.com/CHEREF-Mehdi/Node-Link-Graph-Visualization/blob/master/ImageForReadMe/Capture3.PNG)
 
 Where Vk is the considered node, nb is the number of neighbors including Vk and ij is the index of the neighbor number j in Ti.
 
