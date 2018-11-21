@@ -7,7 +7,7 @@ To make the graph clear we have implemented an algorithm, The purpose of this al
 
 If the distance between two connected nodes increases, the arcs will be away from the axis, which increases the viewing space. The goal is to find the best placement of the nodes on the axis which reduces the lengths of the arcs to draw.
 
-To do this, it will be necessary to bring each node closer to its neighbors to minimiz the distance of each node of the centroid of its neighbors. A measure d is associated to each node indicating its distance to the centroid of its neighbors. Assuming that the nodes are arranged in an array Ti, d(Vk) is calculated as follows :
+To do this, it will be necessary to bring each node closer to its neighbors to minimiz the distance between each node and the centroid of its neighbors. A measure d is associated to each node indicating its distance from the centroid of its neighbors. Assuming that the nodes are arranged in an array Ti, d(Vk) is calculated as follows :
 
 ![alt text](https://github.com/CHEREF-Mehdi/Node-Link-Graph-Visualization/blob/master/ImageForReadMe/Capture3.PNG)
 
