@@ -12,3 +12,11 @@ To do this, it will be necessary to bring each node closer to its neighbors to m
 ![alt text]()
 
 Where Vk is the considered node, nb is the number of neighbors including Vk and ij is the index of the neighbor number j in Ti.
+
+The proposed computer solution for this project could therefore construct two diagrams in arcs (circular and linear) whatever the number of nodes of the graph G.
+
+# About the proposed solution
+
+The user can add nodes and arcs as many as he want inside the space of drawing (in the right side), and the solution will draw automaticly the optimized and NON-optimized arc diagrams (in the left side) associated to the graph G.
+
+![alt text]()
