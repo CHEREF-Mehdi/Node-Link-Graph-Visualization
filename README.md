@@ -19,4 +19,10 @@ The proposed computer solution for this project could therefore construct two di
 
 The user can add nodes and arcs as many as he want inside the space of drawing (in the right side), and the solution will draw automaticly the optimized and NON-optimized arc diagrams (in the left side) associated to the graph G.
 
-![alt text]()
+![alt text](https://github.com/CHEREF-Mehdi/Node-Link-Graph-Visualization/blob/master/ImageForReadMe/Capture.png)
+
+# About Processing tool
+
+Processing is a Java library and free development environment, created by Benjamin Fry and Casey Reas, two American artists.
+
+URL : https://processing.org/
